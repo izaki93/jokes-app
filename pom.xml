@@ -39,7 +39,7 @@
                 </exclusion>
             </exclusions>
         </dependency>
-        
+
         <dependency>
             <groupId>guru.springframework</groupId>
             <artifactId>chuck-norris-for-actuator</artifactId>
