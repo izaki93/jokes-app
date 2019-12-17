@@ -19,7 +19,6 @@ npm-debug.log.*
 #####################
 /log/
 target/
-/target/
 */target/*
 */target/**
 
